@@ -1,4 +1,5 @@
 <img width="679" height="290" alt="clockfrontview" src="https://github.com/user-attachments/assets/46b911ab-0617-4695-add1-5466e9c9078e" />
+<img width="946" height="535" alt="Screenshot 2026-09-21 210639" src="https://github.com/user-attachments/assets/7a893350-c244-4f65-ae27-093fbaa9ad06" />
 
 # Magical Alarm Clock
 
