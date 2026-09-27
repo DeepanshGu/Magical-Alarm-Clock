@@ -47,6 +47,8 @@ Built entirely with KiCad (schematic + PCB), Fusion 360 (enclosure), and Arduino
 1. Open the KiCad project files in the `/pcb` folder.
 2. Gerber and drill files are included for direct upload to a fabrication service (e.g. JLCPCB).
 3. Board is a standard 2-layer FR-4 PCB.
+   <img width="1231" height="859" alt="clockpcb" src="https://github.com/user-attachments/assets/3f9c0ee0-9bb3-4e14-b85f-52dac1c3a826" />
+
 
 ## Firmware Setup
 
