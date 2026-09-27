@@ -1,3 +1,5 @@
+<img width="679" height="290" alt="clockfrontview" src="https://github.com/user-attachments/assets/46b911ab-0617-4695-add1-5466e9c9078e" />
+
 # Magical Alarm Clock
 
 A custom-built alarm clock featuring an ST7789 display, XIAO ESP32-C3 microcontroller, 
