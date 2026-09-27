@@ -27,6 +27,18 @@ Built entirely with KiCad (schematic + PCB), Fusion 360 (enclosure), and Arduino
 | Buzzer | Alarm sound output |
 | Custom PCB | 2-layer, designed in KiCad |
 
+## Bill of Materials
+
+| Part | Qty | Notes |
+|---|---|---|
+| Seeed XIAO ESP32-C3 | 1 | Main microcontroller |
+| ST7789 TFT Display (284x76) | 1 | Non-standard resolution |
+| Push Button Switch | 4 | Mode / Increment / Decrement / Alarm |
+| Buzzer | 1 | Alarm sound |
+| Custom PCB | 1 | See /gerber and drillfiles folder |
+| M3 Heat-set Inserts | 4 | For top plate mounting |
+| M3 Screws | 4 | Pairs with heat-set inserts |
+
 ## Repository Structure
 
 
