@@ -1,5 +1,5 @@
 Part,Qty,Unit Price (USD),Link,Notes
-Seeed XIAO ESP32-C3,1,$5.49,https://www.seeedstudio.com/XIAO-ESP32C3-p-5431.html,Main microcontroller
+Seeed XIAO ESP32-C3,1,$5.49,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html,Main microcontroller
 "2.25"" TFT 76x284 SPI Display (ST7789P3)",1,$2.50,https://www.buydisplay.com/chinese/2-25-inch-tft-serial-spi-76x284-lcd-display-module-w-st7789p3,Non-standard resolution match
 Tactile Push Button Switch 6x6mm (pack of 20),1,$2.50,https://www.adafruit.com/product/367,Only 4 needed per clock; pack covers spares
 5V Piezo Buzzer,1,$0.95,https://www.adafruit.com/products/1536,Breadboard-friendly; no driver circuit needed
